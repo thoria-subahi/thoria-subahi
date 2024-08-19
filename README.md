@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Thoria Subahi!
 
 ![Welcome Banner](https://your-image-url.com)
 
