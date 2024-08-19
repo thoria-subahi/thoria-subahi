@@ -37,4 +37,4 @@
 - 🚴‍♂️ When I'm not coding, you can find me cycling or exploring new cafes in town.
 - 🌟 I believe in continuous improvement and always strive to become a better version of myself.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=thoria-subahi&color=blueviolet)
