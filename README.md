@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Thoria Subahi!
 
-![Welcome Banner](https://your-image-url.com)
-
 ## 🚀 About Me
 🎨 **Aspiring Web Developer** with a passion for creating beautiful and functional web applications. I love working with the latest technologies and I'm always eager to learn more.
 
