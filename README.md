@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-AWS-fc8c03?style=flat-square&logo=amazon&logoColor=black" alt="AWS" />
 </p>
 
 ## 🌱 Currently Learning
