@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Thoria Subahi!
 
 ## 🚀 About Me
-🎨 **Aspiring Web Developer** with a passion for creating beautiful and functional web applications. I love working with the latest technologies and I'm always eager to learn more.
+🎨 **Aspiring Software Engineer** with a passion for creating beautiful and functional web applications. I love working with the latest technologies and I'm always eager to learn more.
 
 🧩 I enjoy solving complex problems and turning ideas into reality with code.
 
