@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/-AWS-fc8c03?style=flat-square&logo=amazon&logoColor=black" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Cloudflare-f68220?style=flat-square&logo=cloudflare&logoColor=black" alt="CloudFlare" />
 </p>
 
 ## 🌱 Currently Learning
